@@ -1,0 +1,29 @@
+.first-row{
+margin-top: 3px;
+}
+
+#inp-box1{
+width:15rem;
+}
+
+#inp-box2{
+    width:20rem;
+    }
+
+
+#task_inp{
+    align-content: center;
+margin-top:80px;
+
+}    
+
+#save_btn{
+    border: none;
+width: 3cm;
+
+
+}
+
+#table{
+    margin-top: 20px;
+}
